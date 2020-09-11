@@ -23,9 +23,20 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe acessibility on the web to someone new to programming?
-2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+Web acessibility works to make the internet easily usable and attainable by all types of people. As the Universal Design states,"designing with the 'furthest out' individual in mind will end up benefiting all individuals who use the product or environment." As a result, web developers work to make their pages accessible by those this disablilites and visual needs such as color blindness.
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+
+One thing is to use responsive units. This includes REMs, EMs, and %'s, which are all scalable and allow for users to change the page's font size. A second thing is to use semantic tags, which allow for screen readers to operate smoothly for people with visual impairments or other disabilities. Semantic tags like <h1-6>, <header>, and <nav> are important towards making sure screen readers work effectively. A third thing is keeping color in mind when designing web pages. It is better to use colors that contrast well so that those with color blindness won't have a hard time.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+Programmers use variables to store data under a specific name. These variables can then be referenced and used throughout your code. This allows for programs to be more efficient and understood clearly.
+
 4. What is the purpose of using functions in code?
+
+Functions are a block of code that perform a specific task. Functions are important because they eliminate the need for repetition in code and can be re-used an infinite number of times by programmers to help them achieve their tasks. Functions are yet another thing that help with organization in programs.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
